@@ -37,9 +37,9 @@ This project will use [SemVer](http://semver.org/) for versioning.
 
 At the time of this update...
 
-*@AlfredCedoo
-*@Itzfeminisce
-*@Willybcode
+* @AlfredCedoo
+* @Itzfeminisce
+* @Willybcode
 
 ## License
 
