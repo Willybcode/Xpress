@@ -40,8 +40,10 @@ At the time of this update...
 * @AlfredCedoo
 * @aymarc
 * @Itzfeminisce
+* @michaelkyng
 * @SelasiMadeItHere
 * @Willybcode
+* @Yannkeran
 
 ## License
 
